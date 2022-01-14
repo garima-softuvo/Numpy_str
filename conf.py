@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'tutorial'
-copyright = '2022, garima'
-author = 'garima'
+project = 'Numpy Doc String'
+copyright = '2022, Garima Thakur'
+author = 'Garima Thakur'
 
 # The full version, including alpha/beta/rc tags
 release = '1'

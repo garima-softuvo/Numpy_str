@@ -1,6 +1,7 @@
-Numpy_str
-=========
+source
+======
 
 .. toctree::
    :maxdepth: 4
 
+   main

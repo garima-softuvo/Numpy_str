@@ -49,7 +49,7 @@ class Human:
         occupation : str
             pass the occupation of Human attribute 
 
-        name: str
+        name : str
             Give the name of the Human attribute 
 
 
@@ -90,15 +90,16 @@ class Human:
             print(self.name,"Treat Patients")
 
     def errors(self):
+        pass
 
 Human_1 = Human("Andrew", "Doctor")  
-Human_1.do_work()
-Human_1.speaks()
+# Human_1.do_work()
+# Human_1.speaks()
 
 
 Human_2 = Human("Maria", "Player")
-Human_2.do_work()
-Human_2.speaks()
+# Human_2.do_work()
+# Human_2.speaks()
 
 
 
